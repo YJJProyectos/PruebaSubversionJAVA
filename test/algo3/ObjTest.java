@@ -13,7 +13,7 @@ public class ObjTest {
 		Assert.assertEquals("hola", obj.mostrar());
 	   }
     @Test
-    public void testing(){
+    public void testing4(){
     	
     	Obj obj = new Obj();
 		obj.hacer();
