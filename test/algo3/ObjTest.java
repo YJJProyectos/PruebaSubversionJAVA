@@ -9,7 +9,7 @@ public class ObjTest {
 	public void testeando() {
 		
 		Obj obj = new Obj();
-		obj.hacer();
+	
 		Assert.assertEquals("hola", obj.mostrar());
 	}
 
