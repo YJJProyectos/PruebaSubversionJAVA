@@ -8,7 +8,6 @@ public class ObjTest {
 	@Test
 	public void testeando() {
 		
-		Obj obj = new Obj();
 	
 		Assert.assertEquals("hola", obj.mostrar());
 	}
