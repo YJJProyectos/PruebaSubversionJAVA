@@ -13,11 +13,12 @@ public class ObjTest {
 		Assert.assertEquals("hola", obj.mostrar());
 	   }
     @Test
-    public void testing4(){
+    public void testing(){
     	
     	Obj obj = new Obj();
-		obj.hacer();
-		Assert.assertEquals("hola", obj.mostrar());
+        obj.hacer();
+	Assert.assertEquals("hola", obj.mostrar());
+	hola
     	
     }
 }
