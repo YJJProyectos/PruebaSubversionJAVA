@@ -18,6 +18,5 @@ public class ObjTest {
     	Obj obj = new Obj();
 		obj.hacer();
 		Assert.assertEquals("hola", obj.mostrar());
-    	//socotroco ds
     }
 }
