@@ -12,10 +12,11 @@ public class ObjTest {
 		obj.hacer();
 		Assert.assertEquals("hola", obj.mostrar());
 	   }
-    @Test//hola que tul
+    @Test
     public void testing(){
    	
-    	Obj obj = new Obj(); //dsadfdfd
+    	Obj obj = new Obj();
+		obj.hacer();
 		Assert.assertEquals("hola", obj.mostrar());
     }
 }
