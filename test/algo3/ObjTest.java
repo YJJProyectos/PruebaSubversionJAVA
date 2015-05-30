@@ -16,7 +16,6 @@ public class ObjTest {
     public void testing(){
    	
     	Obj obj = new Obj();
-		obj.hacer();
 		Assert.assertEquals("hola", obj.mostrar());
     }
 }
